@@ -18,7 +18,7 @@ This project was built using these technologies.
 - React.js
 - Javascript
 - Firebase
-- Css3
+- CSS
 - VsCode
 
 ## Features
@@ -33,20 +33,35 @@ This project was built using these technologies.
 
 Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
 
-## 🛠 Installation and Setup Instructions
+### Prerequisites
 
-1. Installation: `npm install`
+Before you begin, ensure you have met the following requirements:
 
-2. In the project directory, you can run: `npm start`
+- [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
+### Run Locally
 
-## Usage Instructions
+To run **portfolio** locally, run this command on your git bash:
 
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
+Linux and macOS:
+
+```bash
+sudo git clone [https://github.com/ThantZinPhyo11/React-Portfolio.git]
+```
+
+Windows:
+
+```bash
+git clone https://github.com/ThantZinPhyo11/React-Portfolio.git
+```
+
+### Contact
+
+If you want to contact with me you can reach me at [X](https://twitter.com/ThantZinPhyoMM).
+
+### License
+
+This project is **Free To Use** and does not contains any license.
 
 ### Show your support
 
