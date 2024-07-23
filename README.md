@@ -57,7 +57,7 @@ git clone https://github.com/ThantZinPhyo11/React-Portfolio.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [X](https://twitter.com/ThantZinPhyoMM).
+If you want to contact with me you can reach me at [X](https://x.com/thantzinphyo_gg).
 
 ### License
 
